@@ -1,4 +1,4 @@
 homepage: 'https://proxyriders.com'
 versions:
-  - sha: dcfd19fc7c1e878f3771998a06558ed57c31c6c7
+  - sha: 148a94803bb7e747594b9b3e8f3639680ef1da18
     changeNotes: Initial release.
