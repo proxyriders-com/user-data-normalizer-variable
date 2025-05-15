@@ -1,5 +1,5 @@
 homepage: 'https://proxyriders.com'
 documentation: 'https://github.com/proxyriders-com/user-data-normalizer-variable/'
 versions:
-  - sha: 148a94803bb7e747594b9b3e8f3639680ef1da18
+  - sha: bea0de312d31bea9c325ecd67588cef32d6482aa
     changeNotes: Initial release.
