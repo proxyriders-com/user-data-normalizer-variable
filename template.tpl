@@ -29,11 +29,6 @@ ___TEMPLATE_PARAMETERS___
     "name": "hashUserData",
     "checkboxText": "Hash user data",
     "simpleValueType": true,
-    "valueValidators": [
-      {
-        "type": "DECIMAL"
-      }
-    ],
     "help": "Hash user data with the sha256 function",
     "defaultValue": true
   }
