@@ -14,6 +14,12 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "User Data Normalizer",
+  "categories": [
+    "UTILITY",
+    "CONVERSIONS",
+    "MARKETING",
+    "ANALYTICS"
+  ],
   "description": "Normalizes and hashes user-provided email addresses and phone numbers",
   "containerContexts": [
     "SERVER"
